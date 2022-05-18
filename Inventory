@@ -1,0 +1,87 @@
+{
+  "inventoryData" :
+  [
+    {
+    "userID" : 123,
+    "inventory" :
+      [
+        {
+          "itemID": 1,
+          "itemName": "avatar1",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 10
+        },
+          {
+          "itemID": 2,
+          "itemName": "avatar2",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 20
+        },
+          {
+          "itemID": 3,
+          "itemName": "avatar3",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 30
+        }
+      ]
+    },
+    {
+    "userID" : 456,
+    "inventory" :
+      [
+        {
+          "itemID": 1,
+          "itemName": "avatar1",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 10
+        },
+          {
+          "itemID": 2,
+          "itemName": "avatar2",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 20
+        },
+          {
+          "itemID": 3,
+          "itemName": "avatar3",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 30
+        }
+      ]
+    },
+    {
+    "userID" : 789,
+    "inventory" :
+      [
+        {
+          "itemID": 1,
+          "itemName": "avatar1",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 10
+        },
+          {
+          "itemID": 2,
+          "itemName": "avatar2",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 20
+        },
+          {
+          "itemID": 3,
+          "itemName": "avatar3",
+          "itemImageURL": "",
+          "itemDescription": "",
+          "itemPrice": 30
+        }
+      ]
+    }
+  ]
+  
+}
