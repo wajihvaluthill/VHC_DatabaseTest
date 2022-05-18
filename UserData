@@ -3,25 +3,29 @@
   [
     {
       "userID" : 123,
-      "name" : "wajih",
+      "username" : "wajih",
+      "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
     },
     {
       "userID" : 456,
-      "name" : "Tamer",
+      "username" : "Tamer",
+      "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
     },
     {
       "userID" : 789,
-      "name" : "Cheslav",
+      "username" : "Cheslav",
+      "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
     },
     {
       "userID" : 111,
-      "name" : "Hammed",
+      "username" : "Hammed",
+      "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
     }
