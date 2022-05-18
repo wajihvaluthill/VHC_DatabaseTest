@@ -28,6 +28,13 @@
       "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
+    },
+    {
+      "userID" : 323,
+      "username" : "Jimmi",
+      "password" : "111",
+      "walletID" : "123453",
+      "profilePicURL" : "https//www.google.com"
     }
   ]
   
