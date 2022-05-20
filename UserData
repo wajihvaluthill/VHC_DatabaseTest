@@ -24,22 +24,6 @@
       "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
-    },
-    {
-      "userID" : 111,
-      "username" : "Hammed",
-      "email" : "hammed@vaulthill.io",
-      "password" : "111",
-      "walletID" : "123453",
-      "profilePicURL" : "https//www.google.com"
-    },
-    {
-      "userID" : 323,
-      "username" : "Jimmi",
-      "password" : "111",
-      "walletID" : "123453",
-      "email" : "jimmi@vaulthill.io",
-      "profilePicURL" : "https//www.google.com"
     }
   ]
   
