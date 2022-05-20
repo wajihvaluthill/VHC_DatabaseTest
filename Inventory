@@ -7,21 +7,21 @@
       [
         {
           "itemID": 1,
-          "itemName": "avatar1",
+          "itemName": "Landowner",
           "itemImageURL": "",
           "itemDescription": "",
           "itemPrice": 10
         },
           {
           "itemID": 2,
-          "itemName": "avatar2",
+          "itemName": "Real Estate Mogul",
           "itemImageURL": "",
           "itemDescription": "",
           "itemPrice": 20
         },
           {
           "itemID": 3,
-          "itemName": "avatar3",
+          "itemName": "The Chief",
           "itemImageURL": "",
           "itemDescription": "",
           "itemPrice": 30
