@@ -6,7 +6,7 @@
       "username" : "wajih",
       "email" : "wajih@vaulthill.io",
       "password" : "fff",
-      "walletID" : "123453",
+      "totalCoins" : 4432,
       "profilePicURL" : "https//www.google.com"
     },
     {
@@ -14,7 +14,7 @@
       "username" : "Tamer",
       "email" : "tamer@vaulthill.io",
       "password" : "111",
-      "walletID" : "123453",
+      "totalCoins" : 5543,
       "profilePicURL" : "https//www.google.com"
     },
     {
@@ -22,7 +22,7 @@
       "username" : "Cheslav",
       "email" : "cheslav@vaulthill.io",
       "password" : "111",
-      "walletID" : "123453",
+      "totalCoins" : 7546,
       "profilePicURL" : "https//www.google.com"
     }
   ]
