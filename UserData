@@ -12,7 +12,7 @@
     {
       "userID" : 456,
       "username" : "Tamer",
-      "email" : "wajih@vaulthill.io",
+      "email" : "tamer@vaulthill.io",
       "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
@@ -20,7 +20,7 @@
     {
       "userID" : 789,
       "username" : "Cheslav",
-      "email" : "wajih@vaulthill.io",
+      "email" : "cheslav@vaulthill.io",
       "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
@@ -28,7 +28,7 @@
     {
       "userID" : 111,
       "username" : "Hammed",
-      "email" : "wajih@vaulthill.io",
+      "email" : "hammed@vaulthill.io",
       "password" : "111",
       "walletID" : "123453",
       "profilePicURL" : "https//www.google.com"
@@ -38,7 +38,7 @@
       "username" : "Jimmi",
       "password" : "111",
       "walletID" : "123453",
-      "email" : "wajih@vaulthill.io",
+      "email" : "jimmi@vaulthill.io",
       "profilePicURL" : "https//www.google.com"
     }
   ]
